@@ -1,14 +1,29 @@
-## summary.md
+# Day 01 Summary: Environment Setup
 
-## What I learned:
-if / else conditions
+## What I completed
+- Installed Visual Studio Code
+- Installed Git / Git Bash
+- Installed GitHub Desktop
+- Installed Node.js
+- Created GitHub repository: qa-automation-journey
+- Created README.md
+- Created goals.md
+- Created progress-score.md
+- Made first commits
 
-## What was difficult:
-Nested logic
+## What I learned
+Today I learned how the learning journey should be documented through GitHub. I understood that daily commits are important because they show discipline, consistency, and real progress.
 
-## Hours spent:
-2.5
+I also learned that GitHub is not only a place for code, but also a portfolio where a mentor or future employer can see my work, progress, and thinking.
 
-## Questions:
+I've heard new terms like Scrum, Agile, Kaban, Waterfall, SDLC and STLC, and I'm trying to learn and understand the difference between them.
 
+## What was difficult
+At the beginning, it was difficult to understand the correct repository structure and how to organize files properly.
 
+## Hours spent
+3 hours
+
+## Questions
+- How can I make my GitHub repository look more professional?
+- What is the best structure for daily QA learning reports?
