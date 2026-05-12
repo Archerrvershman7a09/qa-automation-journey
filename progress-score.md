@@ -1,3 +1,18 @@
+# Progress Score
+
 | Day | Completed | Quality | Discipline | Notes |
-|----|----|----|----|----|
-| 1 | Yes | 10/10 | 10/10 | Good start |
+|-----|-----------|---------|------------|-------|
+| 1 | Yes | 8/10 | 10/10 | Environment prepared, GitHub repository created, first commit done |
+| 2 | In progress | - | - | Learning QA, SDLC, STLC and test types |
+| 3 | Not started | - | - | - |
+| 4 | Not started | - | - | - |
+| 5 | Not started | - | - | - |
+| 6 | Not started | - | - | - |
+| 7 | Not started | - | - | - |
+| 8 | Not started | - | - | - |
+| 9 | Not started | - | - | - |
+| 10 | Not started | - | - | - |
+| 11 | Not started | - | - | - |
+| 12 | Not started | - | - | - |
+| 13 | Not started | - | - | - |
+| 14 | Not started | - | - | - |
