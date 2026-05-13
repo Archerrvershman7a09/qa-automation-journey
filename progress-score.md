@@ -3,7 +3,7 @@
 | Day | Completed | Quality | Discipline | Notes |
 |-----|-----------|---------|------------|-------|
 | 1 | Yes | 8/10 | 10/10 | Environment prepared, GitHub repository created, first commit done |
-| 2 | In progress | - | - | Learning QA, SDLC, STLC and test types |
+| 2 | Yes | 8/10 | 10/10 | Learned SDLC, STLC, QA role, test levels vs test types; created STLC example|
 | 3 | Not started | - | - | - |
 | 4 | Not started | - | - | - |
 | 5 | Not started | - | - | - |
