@@ -45,3 +45,16 @@ I created an STLC example for a login feature in an e-commerce website.
 1. Is my STLC example detailed enough for a beginner QA level?
 2. Should I add more test cases for the login feature?
 3. Is my understanding of Test Levels vs Test Types correct?
+
+## Important clarification from mentor
+
+Today I clarified the difference between Test Levels and Test Types.
+
+Test Levels describe the level of system architecture where testing happens: Unit, Integration, System, and UAT.
+
+Test Types describe the purpose or quality aspect of testing: Functional, Performance, Security, Regression, Smoke, and E2E.
+
+Now I understand it this way:
+
+- Test Level = where testing happens
+- Test Type = what we test and why
