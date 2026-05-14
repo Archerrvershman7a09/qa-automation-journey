@@ -51,53 +51,28 @@ Main STLC phases:
 4. Test Execution
 5. Test Closure
 
-## 4. Test Levels
+## Test Levels vs Test Types
 
-Test levels show where testing happens in the system.
+Test Levels show at what level of the system architecture testing is performed.
 
-### Unit Testing
-Testing a small part of code, usually one function or method.
+Examples of Test Levels:
+- Unit Testing: testing separate functions or methods
+- Integration Testing: testing how modules work together
+- System Testing: testing the whole system
+- UAT: final business/user acceptance testing before production
 
-### Integration Testing
-Testing how different modules or services work together.
+Test Types show what exactly we test or what quality aspect we check.
 
-### System Testing
-Testing the complete application as one full system.
+Examples of Test Types:
+- Functional Testing: checking if functionality works according to requirements
+- Performance Testing: checking speed, stability, and load capacity
+- Security Testing: checking for vulnerabilities
+- Regression Testing: checking that old functionality was not broken after new changes
+- Smoke Testing: basic check that the main functionality works
+- E2E Testing: checking a full user flow from beginning to end
 
-### UAT
-User Acceptance Testing checks if the product meets business and user needs.
+Main difference:
 
-## 5. Test Types
+Test Level = where we test.
 
-Test types show what kind of testing is performed and why.
-
-### Smoke Testing
-A quick check that the main functionality works.
-
-### Regression Testing
-Testing to make sure new changes did not break existing functionality.
-
-### E2E Testing
-Testing a full user flow from start to finish.
-
-### Functional Testing
-Checking that a feature works according to requirements.
-
-## 6. Test Levels vs Test Types
-
-Test Level answers the question: "Where do we test?"
-
-Test Type answers the question: "What kind of testing do we perform and why?"
-
-Example:
-
-For a login feature:
-- Unit Testing can check the password validation function.
-- Integration Testing can check login API + database.
-- System Testing can check login inside the full application.
-- UAT can check if login is acceptable for real users.
-
-At the same time:
-- Smoke Testing can quickly check if login works after deployment.
-- Regression Testing can check that login was not broken after a new release.
-- E2E Testing can check the full flow: open website → login → go to dashboard → logout.
+Test Type = what we test and why.
