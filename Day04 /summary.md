@@ -69,3 +69,21 @@ Example:
 
 ```http
 GET /api/users?page=2
+
+### What was difficult
+
+The most difficult part was understanding the difference between headers, body, and query parameters.
+
+Now I understand it this way:
+
+Headers = additional request information
+Body = data sent or received
+Query Parameters = extra values in the URL
+
+### Hours spent: 3 hours
+
+### Questions
+
+Should I create a ReqRes API key for practical testing?
+Is my understanding of GET vs POST correct?
+Should I practice these requests in Postman next?
