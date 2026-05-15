@@ -5,7 +5,7 @@
 | 1 | Yes | 8/10 | 10/10 | Environment prepared, GitHub repository created, first commit done |
 | 2 | Yes | 8/10 | 10/10 | Learned SDLC, STLC, QA role, test levels vs test types; created STLC example|
 | 3 | Yes | 8/10 | 10/10 | Created 5 login test cases and 2 sample bug reports |
-| 4 | Not started | - | - | - |
+| 4 | Yes | 8/10 | 10/10 | Learned HTTP methods, status codes, request/response structure, headers, body, query parameters and ReqRes examples |
 | 5 | Not started | - | - | - |
 | 6 | Not started | - | - | - |
 | 7 | Not started | - | - | - |
