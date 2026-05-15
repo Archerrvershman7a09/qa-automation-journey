@@ -65,11 +65,6 @@ Usually API body is written in JSON format.
 
 Query parameters are extra values in the URL after `?`.
 
-Example:
-
-```http
-GET /api/users?page=2
-
 ### What was difficult
 
 The most difficult part was understanding the difference between headers, body, and query parameters.
