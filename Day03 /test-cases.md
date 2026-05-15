@@ -158,3 +158,12 @@ Not executed yet.
 
 **Status:**
 Not executed
+
+## Additional Edge Cases
+
+Possible additional login checks:
+- Login with email containing spaces
+- Login with very long password
+- Login with SQL injection-like input
+- Login after several failed attempts
+- Login with uppercase/lowercase email
